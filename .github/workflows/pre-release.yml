@@ -1,7 +1,7 @@
 name: CI/CD pre release
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
